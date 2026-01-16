@@ -1,0 +1,4 @@
+{
+    "github": "Github rushcik/rushcik",
+    "discord": "@rushcik"
+}
